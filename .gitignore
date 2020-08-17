@@ -1,0 +1,4 @@
+checkpoints
+data/yolov4.weights
+env
+.idea
